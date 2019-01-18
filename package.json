@@ -1,5 +1,5 @@
 {
-  "name": "rmw-shell",
+  "name": "meetneat-shell",
   "version": "5.0.11",
   "description": "rmw-shell React component",
   "main": "lib/index.js",
@@ -116,10 +116,10 @@
     "redux-persist": "^5.10.0",
     "redux-thunk": "^2.3.0"
   },
-  "author": "Tarik Huber",
-  "homepage": "https://www.react-most-wanted.com/",
+  "author": "powered byTarik Huber",
+  "homepage": "",
   "license": "MIT",
-  "repository": "https://github.com/TarikHuber/rmw-shell",
+  "repository": "https://github.com/wortkotze/meetneat-shell",
   "keywords": [
     "react-most-wanted",
     "react",
